@@ -43,21 +43,17 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="TXSpell, Version=5.0.400.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXSpell, Version=10.0.900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Text Control GmbH\TX Spell 4.0 .NET for Windows Forms\Assembly\TXSpell.dll</HintPath>
     </Reference>
-    <Reference Include="TXSpell.Windows.Forms, Version=5.0.400.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXSpell.Windows.Forms, Version=10.0.900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Text Control GmbH\TX Spell 4.0 .NET for Windows Forms\Assembly\TXSpell.Windows.Forms.dll</HintPath>
     </Reference>
-    <Reference Include="TXTextControl, Version=21.0.1400.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXTextControl, Version=31.0.2400.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 20.0.NET for Windows Forms\Assembly\TXTextControl.dll</HintPath>
     </Reference>
-    <Reference Include="TXTextControl.Windows.Forms, Version=21.0.600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXTextControl.Windows.Forms, Version=31.0.1600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 20.0.NET for Windows Forms\Assembly\TXTextControl.Windows.Forms.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
